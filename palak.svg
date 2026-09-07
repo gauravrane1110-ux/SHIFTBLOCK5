@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b56cff"/><stop offset="1" stop-color="#f3a6ff"/></linearGradient>
+ <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151b2f"/><stop offset="1" stop-color="#29365f"/></linearGradient>
+</defs>
+<rect width="600" height="600" rx="72" fill="url(#bg)"/>
+<circle cx="300" cy="270" r="185" fill="#ffffff" opacity=".18"/>
+<circle cx="300" cy="270" r="150" fill="#fff" opacity=".12"/>
+<!-- shoulders -->
+<path d="M105 590c10-125 76-188 195-188s185 63 195 188z" fill="url(#shirt)"/>
+<!-- neck -->
+<path d="M255 365v75c15 30 75 30 90 0v-75z" fill="#c98262"/>
+<!-- hair -->
+<path d="M180 265c-12-120 42-180 120-180 92 0 133 66 118 175-18-22-35-38-60-51-40 29-91 45-178 56z" fill="#3b1f45"/>
+<!-- face -->
+<ellipse cx="300" cy="270" rx="105" ry="128" fill="#c98262"/>
+<!-- ears -->
+<ellipse cx="194" cy="282" rx="22" ry="35" fill="#c98262"/>
+<ellipse cx="406" cy="282" rx="22" ry="35" fill="#c98262"/>
+<!-- hair fringe -->
+<path d="M198 235c14-79 57-111 114-111 62 0 99 39 105 105-41-24-72-36-112-27-35 8-70 27-107 33z" fill="#3b1f45"/>
+<!-- eyes -->
+<ellipse cx="263" cy="274" rx="10" ry="7" fill="#171522"/>
+<ellipse cx="337" cy="274" rx="10" ry="7" fill="#171522"/>
+<path d="M250 246q14-12 28 0M322 246q14-12 28 0" fill="none" stroke="#30202a" stroke-width="7" stroke-linecap="round"/>
+<!-- nose -->
+<path d="M300 275l-9 40q9 7 20 0" fill="none" stroke="#7c4638" stroke-width="5" stroke-linecap="round"/>
+<!-- smile -->
+<path d="M267 344q33 25 66 0" fill="none" stroke="#5b2630" stroke-width="7" stroke-linecap="round"/>
+<!-- collar -->
+<path d="M255 420l45 52 45-52 28 30-73 88-73-88z" fill="#e8eefc" opacity=".9"/>
+<!-- role badge -->
+<circle cx="492" cy="108" r="62" fill="#11182b" opacity=".92"/>
+<text x="492" y="98" text-anchor="middle" fill="#fff" font-size="38" font-family="Arial" font-weight="800">◆</text>
+<text x="492" y="132" text-anchor="middle" fill="#fff" font-size="15" font-family="Arial" font-weight="700">4THRIVES</text>
+<!-- name -->
+<text x="300" y="535" text-anchor="middle" fill="#fff" font-size="39" font-family="Arial" font-weight="800">Palak</text>
+<text x="300" y="565" text-anchor="middle" fill="#fff" opacity=".9" font-size="21" font-family="Arial">Presenter</text>
+</svg>
